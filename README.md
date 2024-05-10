@@ -8,7 +8,7 @@
 
 ## The main code is contained in mm.c.
 
-HOW TO RUN: Use the provided Makefile to compile the program. The main code is contained in mm.c. Run mdriver to test the memory allocation compaction.
+HOW TO RUN: Use the provided Makefile to compile the program. Run mdriver to test the memory allocation compaction.
 
 ## 1. Strategy for Maintaining Compaction:
 
