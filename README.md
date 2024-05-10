@@ -6,7 +6,7 @@
 |_|  |_|\__,_|_|_|\___/ \___|
 ```
 
-# The main code is contained in mm.c.
+## The main code is contained in mm.c.
 
 HOW TO RUN: Use the provided Makefile to compile the program. The main code is contained in mm.c. Run mdriver to test the memory allocation compaction.
 
